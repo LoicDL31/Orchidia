@@ -1,4 +1,4 @@
-# <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/ac7cdfc3-7bc2-4fc0-8a8d-153367c4a895" /> Orchidia
+# <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/ac7cdfc3-7bc2-4fc0-8a8d-153367c4a895" /> Orchidia
 
 ## Présentation
 
@@ -184,8 +184,8 @@ Projet réalisé en équipe dans le cadre de la Licence Sciences pour l'Ingénie
 
 - Loïc Lemotio Donmeza
 - Arthur Bounkeua
-- Marieme Sy
 - Pauline Zheng
 - Evelien Tijtgat
+- Marieme Sy
 
 Licence SPI-EEAPR - Université de Lorraine (2026)
