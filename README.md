@@ -66,6 +66,14 @@ Application Web PHP
 - MySQL
 - HTML / CSS
 
+### Flow Node-RED
+<img width="616" height="215" alt="image" src="https://github.com/user-attachments/assets/4780e6a9-429b-439d-8ce7-20e3e68f79d6" />
+
+### Schema de BD
+<img width="764" height="400" alt="image" src="https://github.com/user-attachments/assets/9ded6e40-f0a9-4714-8caf-c1e742567d74" />
+
+
+
 ---
 
 ## Principes de conception
