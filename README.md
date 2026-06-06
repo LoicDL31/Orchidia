@@ -172,8 +172,11 @@ Projet réalisé en équipe dans le cadre de la Licence Sciences pour l'Ingénie
 
 ---
 
-## Auteur
+## Auteurs
 
 Loïc Lemotio Donmeza
+Arthur Bounkeua
+Pauline Zheng
+Evelien Tijtgat
 
-Cycle ingénieur IA2R - Polytech Nancy (2026)
+Licence SPI-EEAPR - Université de Lorraine (2026)
