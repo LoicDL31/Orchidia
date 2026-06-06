@@ -184,6 +184,7 @@ Projet réalisé en équipe dans le cadre de la Licence Sciences pour l'Ingénie
 
 - Loïc Lemotio Donmeza
 - Arthur Bounkeua
+- Marieme Sy
 - Pauline Zheng
 - Evelien Tijtgat
 
