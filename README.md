@@ -1,4 +1,4 @@
-# Orchidia
+# <img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/ac7cdfc3-7bc2-4fc0-8a8d-153367c4a895" /> Orchidia
 
 ## Présentation
 
