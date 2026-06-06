@@ -174,9 +174,9 @@ Projet réalisé en équipe dans le cadre de la Licence Sciences pour l'Ingénie
 
 ## Auteurs
 
-Loïc Lemotio Donmeza
-Arthur Bounkeua
-Pauline Zheng
-Evelien Tijtgat
+- Loïc Lemotio Donmeza
+- Arthur Bounkeua
+- Pauline Zheng
+- Evelien Tijtgat
 
 Licence SPI-EEAPR - Université de Lorraine (2026)
